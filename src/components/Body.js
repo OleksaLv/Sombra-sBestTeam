@@ -35,8 +35,6 @@ const Body = () => {
         </div>
       </div>
 
-          </div>
-
           <div style={styles.card}>
               <img src={"/kira_photo.png"} alt="Kira Mashkovska" style={styles.photo} />
               <div style={styles.textContainer}>
