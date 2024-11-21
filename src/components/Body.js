@@ -23,7 +23,7 @@ const Body = () => {
         <img src={"/Denys.png"} alt="Denys Losiev" style={styles.photo} />
         <div style={styles.textContainer}>
           <h2 style={styles.name}>Denys Losiev</h2>
-          <p style={styles.position}>Backend developerr</p>
+          <p style={styles.position}>Backend developer</p>
         </div>
       </div>
 
@@ -39,7 +39,15 @@ const Body = () => {
               <img src={"/kira_photo.png"} alt="Kira Mashkovska" style={styles.photo} />
               <div style={styles.textContainer}>
                   <h2 style={styles.name}>Kira Mashkoska</h2>
-                  <p style={styles.position}>Frontend engineer</p>
+                  <p style={styles.position}>Frontend developer</p>
+              </div>
+          </div>
+
+          <div style={styles.card}>
+              <img src={"/Maria(1).png"} alt="Mariia Lytvyn" style={styles.photo} />
+              <div style={styles.textContainer}>
+                  <h2 style={styles.name}>Mariia Lytvyn</h2>
+                  <p style={styles.position}>Project manager</p>
               </div>
           </div>
     </main>
