@@ -4,6 +4,7 @@ const Header = () => {
   return (
     <header style={styles.header}>
       <h1>My dream team</h1>
+      <h1>WOW REALY our dream team</h1>
     </header>
   );
 };
